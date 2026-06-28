@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Sockets;
 
-namespace ConsoleApp3
+namespace WpfApp2
 {
 
     internal class BruteForceDetector

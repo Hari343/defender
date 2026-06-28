@@ -8,7 +8,7 @@ using System.Net.NetworkInformation;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace ConsoleApp3
+namespace WpfApp2
 {
     internal class TsharkInterface(ConcurrentQueue<Packet> packetQueue, ConcurrentQueue<string> errorQueue, string tsharkPath, string captureFilePath)
     {
